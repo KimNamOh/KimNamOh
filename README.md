@@ -19,5 +19,5 @@
 * 🎨 상상을 현실로 만들 수 있는 것이 목표입니다.
 * 😎 미래의 멋진 제 모습을 보고 싶습니다.
 
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=obinggle)](https://solved.ac/obinggle/)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=obinggle)](https://solved.ac/obinggle/)
